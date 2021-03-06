@@ -2,6 +2,8 @@
 
 This is the public roadmap for Chafan project.
 
+[开发策略](docs/development_strategy.md)
+
 ## Introduction
 
 This is the experimental public roadmap for https://cha.fan. This repository contains information about what we are working on and allows interested users to track our progress and give direct feedback.
